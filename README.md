@@ -1,5 +1,5 @@
 # 💫 About Me:
-A passionate Flutter developer with hands-on experience in leveraging state management solutions like GetX, BLoC and Riverpod, seamlessly integrating Firebase, Hive and REST APIs. Extensive knowledge of Dart Language and Flutter SDK, enabling rapid development of robust and visually appealing apps maintaining SOLID design principles. Committed to staying ahead of the curve, continuously expanding skillset. Seeking a challenging role to contribute innovative solutions and drive Flutter development excellence.
+<p align="justify">A passionate Flutter developer with hands-on experience in leveraging state management solutions like GetX, BLoC and Riverpod, seamlessly integrating Firebase, Hive and REST APIs. Extensive knowledge of Dart Language and Flutter SDK, enabling rapid development of robust and visually appealing apps maintaining SOLID design principles. Committed to staying ahead of the curve, continuously expanding skillset. Seeking a challenging role to contribute innovative solutions and drive Flutter development excellence. </p>
 
 
 ## 🌐 Socials:
